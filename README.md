@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [About me](https://example.org/about/)
-- [new-article](https://example.org/posts/1741031271394-new-article/)
-- [new-article](https://example.org/posts/1741031286317-new-article/)
+- [About me](https://blog.cloudbalatro.com.com/about/)
+- [new-article](https://blog.cloudbalatro.com.com/posts/1741031271394-new-article/)
+- [new-article](https://blog.cloudbalatro.com.com/posts/1741031286317-new-article/)
 <!-- BLOG-POST-LIST:END -->
