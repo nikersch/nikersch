@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 # 📚 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My first real test blog post](https://blog.cloudbalatro.com/posts/2025-04-13-hello-world/)
 - [new-article](https://blog.cloudbalatro.com/posts/1741031271394-new-article/)
 - [new-article](https://blog.cloudbalatro.com/posts/1741031286317-new-article/)
 <!-- BLOG-POST-LIST:END -->
